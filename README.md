@@ -13,8 +13,6 @@
 
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 
-- 📝 I regularly write articles on [https://www.iamkukah.online](https://www.iamkukah.online)
-
 - 📫 How to reach me **kwamegilbert1114@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
