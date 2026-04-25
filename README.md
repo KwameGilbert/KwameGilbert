@@ -13,7 +13,9 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kwamegilbert&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=kwamegilbert&theme=dark&hide_border=false)<br/>
-![GitHub Streak](https://streak-stats.demolab.com/?user=johndoe)
+<!-- Dark theme -->
+![GitHub Streak](https://streak-stats.demolab.com/?user=kwamegilbert&theme=dark)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kwamegilbert&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
